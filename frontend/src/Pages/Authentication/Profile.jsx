@@ -193,7 +193,7 @@ const AvatarSelector = () => {
             </div>
             <div className='w-full flex justify-center items-center p-4'>
               <button
-                type="submit"
+                type="submit" style={{marginLeft:"10%"}}
                 className="w-full py-3 px-6 border border-transparent text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none"
               >
                 Submit
